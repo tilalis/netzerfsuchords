@@ -13,7 +13,8 @@ chapter_number: 2
 Ми-нофет-цуф ве-холь таам  
 
 
-**Припев**: Dm | Gm A7 | *- 2 раза*  
-**Куплет**:  
+>**Куплет**:  
 Gm C | F Dm | Gm C | F D7  
-Gm A7 | Dm B | Gm A7 | Dm
+Gm A7 | Dm B | Gm A7 | Dm  
+**Припев**:  
+Dm | Gm A7 *-- 2 раза*  
