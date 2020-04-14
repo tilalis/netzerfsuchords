@@ -1,6 +1,8 @@
 ---
-title: Preface
+title: Песенник НеЦеР СНГ 
 ---
-Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English author Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered to be one of the best examples of the literary nonsense genre. Its narrative course and structure, characters and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre.
+Здесь собраны аккорды которые используются для сопровождения службы в лагерях и клубах НеЦеР СНГ  
 
-[Source](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)
+[vk.com/netzerfsu](https://vk.com/netzerfsu)  
+[fb.com/netzerfsu](https://fb.com/netzerfsu)  
+[instagram.com/netzerfsu](https://instagram.com/netzerfsu)

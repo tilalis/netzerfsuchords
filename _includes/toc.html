@@ -1,5 +1,4 @@
 {% if site.data.settings.table_of_contents %}
-<h3 id="toc">Table of contents</h3>
 <ul class="toc">
 	{% assign chapters = site.chapters | sort: 'chapter_number' %}
 	{% for chapter in chapters %}

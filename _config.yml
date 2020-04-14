@@ -1,15 +1,15 @@
 # ----
 # Site
 
-title: Alice's Adventures In Wonderland
-url: "https://adored-walnut.cloudvent.net/"
-baseurl:
+title: Песенник НеЦеР СНГ 
+url: "http://netzer.family/"
+baseurl: ""
 google_analytics_key:
 logo: /siteicon.png
 description: Book template for Jekyll.
 author:
-  name: Lewis Carroll
-  email:
+  name: НеЦеР СНГ 
+  email: netzerfsu@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Author Template
@@ -35,13 +35,14 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "_chapters/1-down-the-rabbit-hole.md"
+      path: "_chapters/1-ma-tov.md"
     values:
       permalink: "/"
-      layout: "chapter"
+      layout: "chapters"
+      toc: hash
   -
     scope:
-      path: "full.html"
+      path: "index.html"
     values:
       layout: "chapters"
       toc: "hash"
