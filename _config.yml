@@ -6,15 +6,12 @@ url: "http://netzer.family/"
 baseurl: "/"
 google_analytics_key:
 logo: /siteicon.png
-description: Book template for Jekyll.
+description: Аккорды НеЦеР 
 author:
   name: НеЦеР СНГ 
   email: netzerfsu@gmail.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Author Template
-  links:
-    - https://github.com/CloudCannon/author-jekyll-template
 
 # -----
 # Build
