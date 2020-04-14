@@ -3,7 +3,7 @@
 
 title: Песенник НеЦеР СНГ 
 url: "http://netzer.family/"
-baseurl: ""
+baseurl: "/"
 google_analytics_key:
 logo: /siteicon.png
 description: Book template for Jekyll.
