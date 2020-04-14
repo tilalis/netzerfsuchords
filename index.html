@@ -2,7 +2,7 @@
 layout: chapters
 toc: hash
 ---
-{% assign chapters = site.chapters | sort: 'chapter' %}
+{% assign chapters = site.chapters | sort: 'chapter_number' %}
 {% for chapter in chapters %}
 	{% include chapter.html chapter=chapter %}
 {% endfor %}
