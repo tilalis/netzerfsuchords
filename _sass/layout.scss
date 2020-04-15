@@ -11,6 +11,18 @@ body {
 	z-index: 10;
 }
 
+@media only screen and (max-width: 900px) {
+	.formats {
+		font-size: 1.2em;
+	}
+
+  	.wrap {
+		padding: 0;
+		margin: auto;
+		width: 90%;
+  	}
+}
+
 hr {
 	width: 150px;
 	border: 1px solid #000;
